@@ -1,2 +1,2 @@
 # BattleTank
-An open-world h2h tank fight with simple AI, terrain and advanced  contorl
+An open-world h2h tank fight with simple AI, terrain and advanced  control.
